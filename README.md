@@ -31,7 +31,7 @@ Early detection of pneumonia through chest X-ray imaging can significantly impro
 ## Installation
 To get started, clone this repository:
 ```bash
-git clone https://github.com/yourusername/pneumonia-detection-convit.git
+git clone https://github.com/yourusername/Pneumonia_Detection_Using_a_Hybrid_CNN-Transformer_Model.git
 ```
 ### Prerequisites
 - Python 3.7+
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ```
 
 ### Running in Google Colab
-Open the `pneumonia_detection_convit.ipynb` file in Google Colab for an interactive environment with all dependencies preloaded. The code will guide you through loading the dataset, training the model, and evaluating results.
+Open the `Pneumonia_Detection_Using_a_Hybrid_CNN-Transformer_Model.ipynb` file in Google Colab for an interactive environment with all dependencies preloaded. The code will guide you through loading the dataset, training the model, and evaluating results.
 
 ## How to Run
 1. **Data Loading and Preprocessing**: Load the PneumoniaMNIST dataset, normalize images, and apply data augmentations.
@@ -53,7 +53,7 @@ Open the `pneumonia_detection_convit.ipynb` file in Google Colab for an interact
 
 To run the code locally, open the notebook in Jupyter Notebook or JupyterLab:
 ```bash
-jupyter notebook pneumonia_detection_convit.ipynb
+jupyter notebook Pneumonia_Detection_Using_a_Hybrid_CNN-Transformer_Model.ipynb
 ```
 
 ## Model Architecture
