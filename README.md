@@ -68,7 +68,6 @@ The hybrid CNN-Transformer (ConViT) model architecture includes:
 - **Performance Metrics**: Model achieves high accuracy, F1 score, and ROC-AUC, outperforming traditional CNN-only models.
 - **Explainability**: Attention maps reveal image regions influencing predictions, aiding radiologists in understanding model decisions.
 
-Results are documented in the `results` folder, with saved models and evaluation metrics.
 
 ## Limitations and Future Directions
 - **Current Limitations**: Requires labeled data and may struggle with data heterogeneity across different populations.
