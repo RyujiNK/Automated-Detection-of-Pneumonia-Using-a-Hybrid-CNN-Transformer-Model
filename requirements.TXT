@@ -1,0 +1,18 @@
+# Core Libraries
+numpy
+math
+
+# Machine Learning and Deep Learning
+torch
+torchvision
+
+# Dataset and Medical Imaging Libraries
+medmnist
+monai
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning Utilities
+scikit-learn
